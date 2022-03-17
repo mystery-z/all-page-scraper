@@ -9,4 +9,4 @@ ruby version
 
 
 python version
- - uses the HTTP and requests libs
+ - uses the 'HTTP' and 'requests' libs
