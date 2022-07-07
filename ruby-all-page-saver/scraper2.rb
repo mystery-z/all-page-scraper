@@ -22,7 +22,7 @@ output_txt = ""
 
 while a < count
 	#sorts words
-	
+	res_body = ""
 	word_list = IO.readlines("words.txt", chomp: true)
 	word_spec_num = word_list[a]
 	puts "\n\n" 
